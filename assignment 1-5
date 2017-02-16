@@ -1,0 +1,23 @@
+1
+The main sources of Data flood are:-
+a).Docs such as email,ppt,word etc
+b).Social media like twitter,yammer,facebook etc
+c)Archieves-Archieves of scanned documents,statement,medical records etc
+d).Media-Images,videos,audio etc
+e).Sensor data-medical devices,car sensors,electrical sensors etc
+
+2
+The differences between Data and Big data  are:-
+Data-Symbols or signals that are input, stored, and processed by a computer, for output as usable information.
+Bigdata-voluminous amount of structured, semistructured and unstructured data that has the potential to be mined for information.
+                                              or
+Big Data is a high-volume, highvelocity,and high-variety information asset thatdemands cost-effective, innovative forms of information
+processing for enhanced insight and decision making.
+
+
+3
+Main reasons behind hadoop becoming the solution for Data explosion are:-
+The reason that Hadoop is such a great solution is that it's inexpensive, scalable and completely flexible. 
+You don't need to predict, in advance, what kinds of data you'll capture and store.
+The system is able to handle any format, including new formats as they emerge. 
+That's crucial, since we can't predict today what sensors, what systems and what data formats we'll be using five or 10 years hence.Hadoop is, by a considerable margin, the most successful platform for big data storage and processing in the world
